@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuRecommendApp", "MenuRecommendApp\MenuRecommendApp.csproj", "{583E5E17-0BE7-4581-93B8-A3CA43B46D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583E5E17-0BE7-4581-93B8-A3CA43B46D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583E5E17-0BE7-4581-93B8-A3CA43B46D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583E5E17-0BE7-4581-93B8-A3CA43B46D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583E5E17-0BE7-4581-93B8-A3CA43B46D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4CD2EB-8418-4C12-BF1B-EDAF1C0ADEDE}
+	EndGlobalSection
+EndGlobal
